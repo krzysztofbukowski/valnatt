@@ -39,7 +39,7 @@
     "jest": "^24.4.0",
     "jest-css-modules": "^1.1.0",
     "mini-css-extract-plugin": "0.4.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "postcss": "7.0.1",
     "postcss-flexbugs-fixes": "4.0.0",
     "postcss-loader": "2.1.6",
