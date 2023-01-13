@@ -54,7 +54,7 @@
     "typescript": "2.9.2",
     "typings-for-css-modules-loader": "^1.7.0",
     "webpack": "4.15.1",
-    "webpack-cli": "3.0.8",
+    "webpack-cli": "3.3.12",
     "webpack-dev-server": "^3.2.1"
   },
   "husky": {
